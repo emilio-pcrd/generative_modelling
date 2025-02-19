@@ -1,0 +1,11 @@
+*.pth
+*.pt
+first_assignement/models/
+
+first_assignement/MNIST/
+first_assignement/tp3_generative_networks_exo1correc.ipynb
+
+*/__pycache__/
+
+CNN_Texture_Synthesis_with_solution.ipynb
+dm_generative_modelling_gravier.ipynb
